@@ -14,3 +14,9 @@ HÜ:
 - git config --global user.email '<a@b.com>'
 - git config --global user.name 'Mein Name'
 - Eine Änderung vornehmen (commit + push)
+
+SWP
+
+- minimalste Website (index.html erstellen)
+- live server plugin installieren
+- website committen und pushen
