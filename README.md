@@ -2,6 +2,12 @@
 
 Unterlagen und Code zum SWP und INFI Unterricht
 
+## 2024-09-24
+
+Erstelle im Ordner "2024-09-24_position" Deine eigene
+Implementierung der Folie css-position-z-index
+eigener "css" Ordner.
+
 ## 2024-09-17
 
 - Folie Rene (html intro)
