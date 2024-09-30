@@ -2,6 +2,8 @@
 
 Unterlagen und Code zum SWP und INFI Unterricht
 
+## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
+
 ## 2024-09-24
 
 Erstelle im Ordner "2024-09-24_position" Deine eigene
