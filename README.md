@@ -2,7 +2,21 @@
 
 Unterlagen und Code zum SWP und INFI Unterricht
 
+PLF: 5. NOV
+PLF: 10. 12.
+PLF: 14. Jänner
+
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
+
+## aktuelle HÜ
+
+mit bootstrap
+
+- container
+- position
+- border / margin / padding
+- center
+- 3 Components
 
 ## 2024-10-01
 
