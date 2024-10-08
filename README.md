@@ -2,21 +2,33 @@
 
 Unterlagen und Code zum SWP und INFI Unterricht
 
+## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
+
+## PLFs
+
 PLF: 5. NOV
 PLF: 10. 12.
 PLF: 14. Jänner
 
-## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
+## geplant
+
+- flexbox
+- js
 
 ## aktuelle HÜ
 
-mit bootstrap
+- Upload HTML Quiz Ergebnis
+- html seite mit table erstellen und folgenden tags: table, caption, thead, tbody, tfoot, tr, th, td, rowspan, colspan
+- Erfinde eine Liste Deiner Wahl (Fußballspieler, Autos, Speisen, etc.)
+- style die table mit bootstrap Klassen
+- Auf dieser Website zusätzlich noch eine Uhr implementieren
+- 2 Buttons (button-group): start watch und stop watch (verwende: new Date.toLocaleTimeString())
 
-- container
-- position
-- border / margin / padding
-- center
-- 3 Components
+## 2024-10-08
+
+- Besprechung hü
+- wh bootstrap
+- kleines js demo
 
 ## 2024-10-01
 
