@@ -15,7 +15,14 @@ PLF: 14. Jänner
 - flexbox
 - js
 
-## aktuelle HÜ
+## 2024-10-15
+
+- html Fragen beantworten (Luka, Kit)
+- container, basierend auf Kit
+
+## 2024-10-08
+
+### HÜ
 
 - Upload HTML Quiz Ergebnis
 - html seite mit table erstellen und folgenden tags: table, caption, thead, tbody, tfoot, tr, th, td, rowspan, colspan
@@ -23,8 +30,6 @@ PLF: 14. Jänner
 - style die table mit bootstrap Klassen
 - Auf dieser Website zusätzlich noch eine Uhr implementieren
 - 2 Buttons (button-group): start watch und stop watch (verwende: new Date.toLocaleTimeString())
-
-## 2024-10-08
 
 - Besprechung hü
 - wh bootstrap
