@@ -12,13 +12,20 @@ PLF: 14. Jänner
 
 ## geplant
 
-- flexbox
-- js
+- BS: container
 
 ## 2024-10-15
 
+### HÜ
+
+- ORF Seite so gut es geht nachbauen (2024-10-15).
+- herausfinden, wie das Aufklappen der Artikel funktioniert.
+
+### Inhalt
+
 - html Fragen beantworten (Luka, Kit)
-- container, basierend auf Kit
+- flexbox
+- css selectors
 
 ## 2024-10-08
 
