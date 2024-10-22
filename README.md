@@ -6,13 +6,18 @@ Unterlagen und Code zum SWP und INFI Unterricht
 
 ## PLFs
 
-PLF: 5. NOV
+PLF: 5. NOV (Stoff: eine Website nachbauen, Css Grid, media query,
+sowie die 2 gewählten bootstrap components)
 PLF: 10. 12.
 PLF: 14. Jänner
 
-## geplant
+## 2024-10-22
 
-- BS: container
+### HÜ
+
+- Bilder von der ORF-Seite in GRID anzuordnen
+- Anderes Layout bei weniger als 800px Breite (selber ausdenken)
+- 2 bootstrap components mit eigenem Content implementieren
 
 ## 2024-10-15
 

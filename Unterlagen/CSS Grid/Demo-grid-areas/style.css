@@ -8,21 +8,27 @@
 body {
     background-color: #2196f3;
 }
+
 .header {
     grid-area: header;
 }
+
 .main {
     grid-area: main;
 }
+
 .side {
     grid-area: side;
 }
+
 .impressum {
     grid-area: impressum;
 }
+
 .footer {
     grid-area: footer;
 }
+
 .span-2 {
     grid-column: span 2;
 }
@@ -43,9 +49,10 @@ body {
     border: 5px solid purple;
     border-radius: 1em;
     margin: 10px;
-    min-height: 90vh;
+    min-height: 90dvh;
 }
-.grid-container > div {
+
+.grid-container>div {
     display: flex;
     flex-direction: column;
     background-color: darkgray;
@@ -68,18 +75,24 @@ body {
             'footer footer';
     }
 }
+
 @media screen and (max-width: 600px) {
     .grid-container {
         /* grid-template-rows: repeat(4, 1fr); */
         grid-template-columns: 1fr;
-        grid-template-rows: 1fr 2fr 10% 10% 10%;
+        grid-template-rows: 1fr 2fr 10% 10%;
         grid-template-areas:
             'header'
             'main'
             'impressum'
-            'side'
+
             'footer';
     }
+
+    .side {
+        display: none !important;
+    }
+
     /*  Will man oben "side" auskommentieren, braucht man auch dies hier:
     .side {
         visibility: collapse;
