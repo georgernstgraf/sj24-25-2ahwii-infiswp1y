@@ -13,3 +13,7 @@
 - Schmidt Anton: <https://github.com/AntonScripts/infiswp.git>
 - Vasic Luka: <https://github.com/lukaaavv/infiswp.git>
 - Zalud Barbara: <https://github.com/Barbara-Z/infiswp.git>
+
+## dieses Repo
+
+`git remote -v`
