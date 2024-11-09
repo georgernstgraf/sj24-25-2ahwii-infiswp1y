@@ -38,7 +38,7 @@ PLF: 14. Jänner
 
 ## 2024-10-08
 
-### HÜ
+### __HÜ
 
 - Upload HTML Quiz Ergebnis
 - html seite mit table erstellen und folgenden tags: table, caption, thead, tbody, tfoot, tr, th, td, rowspan, colspan

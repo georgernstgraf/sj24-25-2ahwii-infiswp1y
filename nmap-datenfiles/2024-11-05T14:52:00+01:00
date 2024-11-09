@@ -1,0 +1,46 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-11-05 14:52 CET
+Nmap scan report for 192.168.33.101
+Host is up (0.11s latency).
+MAC Address: F8:59:71:65:4A:6E (Intel Corporate)
+Nmap scan report for 192.168.33.102
+Host is up (0.11s latency).
+MAC Address: B4:B5:B6:F1:1F:D3 (Chongqing Fugui Electronics)
+Nmap scan report for 192.168.33.103
+Host is up (0.11s latency).
+MAC Address: A8:3B:76:73:76:79 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.33.104
+Host is up (0.11s latency).
+MAC Address: 00:45:E2:E1:EC:0B (CyberTAN Technology)
+Nmap scan report for 192.168.33.105
+Host is up (0.11s latency).
+MAC Address: 38:F9:D3:BA:7C:08 (Apple)
+Nmap scan report for 192.168.33.106
+Host is up (0.055s latency).
+MAC Address: E0:0A:F6:9F:97:75 (Liteon Technology)
+Nmap scan report for 192.168.33.107
+Host is up (0.10s latency).
+MAC Address: 1E:20:6D:64:87:65 (Unknown)
+Nmap scan report for 192.168.33.108
+Host is up (0.096s latency).
+MAC Address: C0:35:32:67:3E:27 (Unknown)
+Nmap scan report for 192.168.33.109
+Host is up (0.067s latency).
+MAC Address: 9C:2F:9D:A7:06:37 (Liteon Technology)
+Nmap scan report for 192.168.33.110
+Host is up (0.097s latency).
+MAC Address: 30:C9:AB:FE:1E:C7 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.33.111
+Host is up (0.072s latency).
+MAC Address: A8:41:F4:E6:3C:46 (Unknown)
+Nmap scan report for 192.168.33.112
+Host is up (0.099s latency).
+MAC Address: 00:D4:9E:A6:11:70 (Intel Corporate)
+Nmap scan report for 192.168.33.113
+Host is up (0.10s latency).
+MAC Address: 60:E9:AA:E3:BF:ED (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.33.114
+Host is up (0.11s latency).
+MAC Address: 60:45:2E:DD:09:0A (Unknown)
+Nmap scan report for 192.168.33.1
+Host is up.
+Nmap done: 256 IP addresses (15 hosts up) scanned in 4.51 seconds
