@@ -1,7 +1,9 @@
-Starting Nmap 7.94 ( https://nmap.org ) at 2024-11-05 13:10 CET
+Starting Nmap 7.94 ( <https://nmap.org> ) at 2024-11-05 13:10 CET
+
 Nmap scan report for 192.168.33.101
 Host is up (0.13s latency).
 MAC Address: F8:59:71:65:4A:6E (Intel Corporate)
+
 Nmap scan report for 192.168.33.102
 Host is up (0.13s latency).
 MAC Address: B4:B5:B6:F1:1F:D3 (Chongqing Fugui Electronics)

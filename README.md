@@ -11,6 +11,12 @@ PLF: 14. Jänner
 
 ## 2024-11-12
 
+HÜ:
+
+- Deno 2.0.X installieren
+- Aus den Daten in nmap_datenfiles eine CSV Datei erstellen.
+- Spalten: Datum_mit_Uhrzeit_und_Zone, MAC, IP
+
 - Extension Blank Line Organizer
 - w3c !!
 - Beginn mit DB
