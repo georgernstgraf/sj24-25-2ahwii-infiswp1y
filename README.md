@@ -6,7 +6,7 @@ Unterlagen und Code zum SWP und INFI Unterricht
 
 ## PLFs
 
-PLF: 10. 12. (Tereza!)
+PLF: 10. 12.
 PLF: 14. Jänner
 
 ## 2024-11-12
@@ -14,6 +14,7 @@ PLF: 14. Jänner
 HÜ:
 
 - Deno 2.0.X installieren
+- vs-code extension deno UND deno snippets
 - Aus den Daten in nmap_datenfiles eine CSV Datei erstellen.
 - Spalten: Datum_mit_Uhrzeit_und_Zone, MAC, IP
 
