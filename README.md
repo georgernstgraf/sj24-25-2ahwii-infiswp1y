@@ -9,6 +9,10 @@ Unterlagen und Code zum SWP und INFI Unterricht
 PLF: 10. 12.
 PLF: 14. Jänner
 
+## 2024-11-19
+
+<https://github.com/denodrivers/sqlite3/blob/main/doc.md>
+
 ## 2024-11-12
 
 HÜ:
