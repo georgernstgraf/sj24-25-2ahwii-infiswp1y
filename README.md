@@ -11,7 +11,12 @@ PLF: 14. Jänner
 
 ## 2024-11-19
 
-<https://github.com/denodrivers/sqlite3/blob/main/doc.md>
+HÜ:
+
+- meinen Code zum Laufen kriegen, sodass er aufs Terminal die Daten schreibt.
+- falls komischer Garbage entsteht, ist am Ende des STrings vmtl. ein `\r`, dieses kann entfernt werden mit `str.replace(/\r/g, '')`.
+- Anhand der Doku writeTextFile analog zu readTextFile(so wie es im dztigen code ist) direkt in das textfile schreiben.
+- Deno.writeTextFile() BITTE IN DIE DOKU SCHAUEN!
 
 ## 2024-11-12
 
