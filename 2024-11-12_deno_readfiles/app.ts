@@ -1,18 +1,12 @@
-
-import { Database } from "https://deno.land/x/sqlite3/mod.ts";
-import { assert } from "https://deno.land/std/testing/asserts.ts";
+import { Database } from "@db/sqlite";
+import { assert } from "@std/assert";
 const dataPath = '../nmap-datenfiles';
 const db = new Database("nmap_data.db");
 
 async function createTable() {
-    //    await db.query(`
-    //  CREATE TABLE IF NOT EXISTS scans (
-    //    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    //    date DATETIME,
-    //    host TEXT,
-    //    mac TEXT
-    //  )
-    //`);
+    // db.prepare(`CREATE TABLE IF NOT EXISTS scans
+    // (id INTEGER PRIMARY KEY AUTOINCREMENT, date DATETIME, host TEXT, mac TEXT); `)
+    // .run();
 }
 function parseDate(dateStr: string): Date {
     const p = dateStr.split('_');
@@ -50,7 +44,7 @@ async function main() {
                 }
                 if (line.startsWith('MAC Address: ')) {
                     mac = line.split(' ')[2].toLowerCase();
-                    //console.log(`${date.toISOString()};${host};${mac}`);
+                    //console.log(`${ date.toISOString() };${ host; };${ mac; } `);
                     /* promiseArray.push(db.query("INSERT INTO scans (date, host, mac) VALUES (?, ?, ?)", [
                          date.toISOString(),
                          host,
@@ -61,11 +55,11 @@ async function main() {
                 }
             }
         }
-        //console.log(`waiting for Insertion ${promiseArray.length} rows`);
+        //console.log(`waiting for Insertion ${ promiseArray.length } rows`);
         //await Promise.all(promiseArray);
-        //console.log(`Inserted ${promiseArray.length} rows`);
+        //console.log(`Inserted ${ promiseArray.length; } rows`);
     } catch (err) {
         console.error('Error reading the file:', err);
     }
 }
-await main();;
+await main();
