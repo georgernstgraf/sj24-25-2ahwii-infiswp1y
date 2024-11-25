@@ -1,3 +1,4 @@
 .~lock.*.pptx#
 .~lock.*.csv#
-2024-11-19_deno_hü/outfile.csv
+*.csv
+*.db

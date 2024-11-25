@@ -1,0 +1,3 @@
+-- database: ./nmap_data.db
+
+SELECT DISTINCT host FROM scans order by host;
