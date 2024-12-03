@@ -4,6 +4,29 @@ Unterlagen und Code zum SWP und INFI Unterricht
 
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
+## 2024-12-03 STOFF Besprechung
+
+- string split / join "Alle e's in einem String durch 'ee' ersetzen, oder alle "a's" entfernen
+- funktionen und returnwerte: "schreibe eine Funktion, welche das Quadrat des übergebenenen Parameters zurückgibt"
+- schleife mit for .. of zb. einen Text wort für wort auf jeder zeile einzeln ausgeben.
+- if / else blöcke
+- const vs. let
+- continue / break und schleifen
+- für sehr gut: try /catch
+- String.startswith("bla") bzw. ".endsWith("blub")".
+- `||` und `&&` logische Verknüpfungen
+- template strings (die mit dem back-tick "`")
+
+Im Terminal bzw. sqlite3 Plugin
+
+- create table
+- insert
+- sqlite3
+- - datenbank anlegen
+- - create table
+- basic terminal commands
+- eine CSV Datei ins sqlite3 importieren (commandline)
+
 ## PLFs
 
 PLF: 10. 12.
