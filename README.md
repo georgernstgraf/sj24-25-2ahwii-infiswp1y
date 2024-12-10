@@ -4,6 +4,15 @@ Unterlagen und Code zum SWP und INFI Unterricht
 
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
+## HÜ bis 17.12
+
+- Datenbank selber verwenden
+- Überlege Dir 3! Fragen, die Du an die DB stellen möchtest,
+- z.B "Wie viele Kunden gibt es in Salzburg" oder
+- "wie viele Produkte kosten unter 40.-"
+
+Und entwickle das geeignete SQL Statement hierfür.
+
 ## 2024-12-03 STOFF Besprechung
 
 - string split / join "Alle e's in einem String durch 'ee' ersetzen, oder alle "a's" entfernen

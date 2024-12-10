@@ -1,0 +1,66 @@
+-- database: ../Unterlagen_SQL/w3schools.sqlite
+SELECT
+    ProductName
+FROM
+    products;
+
+select
+    CustomerName,
+    city
+from
+    customers
+where
+    city = 'México D.F.';
+
+select DISTINCT
+    city
+from
+    customers
+order by
+    city desc;
+
+SELECT
+    count(distinct country)
+from
+    customers
+order by
+    country;
+
+SELECT
+    *
+FROM
+    Customers
+WHERE
+    Country = 'Mexico';
+
+select
+    contactname,
+    PostalCode,
+    city
+from
+    customers
+where
+    country = 'USA';
+
+select
+    *
+from
+    customers
+where
+    CustomerID = 81;
+
+SELECT
+    *
+FROM
+    Products
+ORDER BY
+    Price desc;
+
+select distinct
+    country,
+    city
+from
+    customers
+order by
+    country,
+    city;
