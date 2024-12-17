@@ -1,8 +1,17 @@
 # sj24-25-2ahwii-infiswp1y
 
-Unterlagen und Code zum SWP und INFI Unterricht
+Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
-## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
+## PLFs
+
+PLF: 14. Jänner
+
+## Vorbereitung für 14.1
+
+- dump der w3schools db in ein sql file hinein!
+- sql video bis min 90: <https://youtu.be/HXV3zeQKqGY> (wer will)
+- w3schools sql tutorial bis incl. "NOT"
+- javascript wie gehabt ...
 
 ## HÜ bis 17.12
 
@@ -35,11 +44,6 @@ Im Terminal bzw. sqlite3 Plugin
 - - create table
 - basic terminal commands
 - eine CSV Datei ins sqlite3 importieren (commandline)
-
-## PLFs
-
-PLF: 10. 12.
-PLF: 14. Jänner
 
 ## 2024-11-19
 
