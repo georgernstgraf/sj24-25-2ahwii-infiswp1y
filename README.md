@@ -1,6 +1,6 @@
 # sj24-25-2ahwii-infiswp1y
 
-Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
+## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
 ## PLFs
 
