@@ -2,9 +2,16 @@
 
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
-## PLFs
+## 2025-01-14
 
-PLF: 14. Jänner
+**HÜ**: entweder in persons.db oder die w3schools
+
+- 3 normale records inserten
+- 3 records mit NULL values inserten
+- 2 Abfrage, welche NULL values sucht
+- 2 Abragen, wo NULL values exkludiert sind
+
+Abgabe mit Datum! - 1 .sql File reicht.
 
 ## Vorbereitung für 14.1
 
