@@ -2,6 +2,14 @@
 
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
+## 2025-01-21
+
+HÜ: Zahlen von 1 bis 10 als list-items in das html einfügen
+
+- transaction
+- update / delete sql
+- sqlite meta zb `.help` kommandos
+
 ## 2025-01-14
 
 **HÜ**: entweder in persons.db oder die w3schools
