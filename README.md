@@ -17,6 +17,8 @@
 - diese Datei in Excel importieren
 - von dort wieder in .csv exportieren
 - eine neue Table "customers2" in w3schools db anlegen
+- abzugeben: 1) die sqlite db mit der neuen Table, 2) die .csv Datei, 3) die
+  Excel Datei
 
 **HÜ SWP**:
 
@@ -24,7 +26,6 @@
 - weiters: onClick
 - drittens kann man dieses direct ins HTML schreiben
 - Übung: keinen Stein vom Anton am anderen lassen, also alle 3 Varianten verwenden bzw. umbauen.
--
 
 ## 2025-01-21
 
