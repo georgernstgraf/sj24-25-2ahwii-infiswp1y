@@ -2,6 +2,30 @@
 
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
+## 2025-02-11
+
+### PLÜ Termine
+
+11.3.
+29.4.
+10.6.
+
+**HÜ INFI**:
+
+- 3 verschiedene KIs mit account anlegen
+- aus w3schools db customers in eine .csv datei exportieren mit ";" als Trenner
+- diese Datei in Excel importieren
+- von dort wieder in .csv exportieren
+- eine neue Table "customers2" in w3schools db anlegen
+
+**HÜ SWP**:
+
+- Methode "addEventListener" im Code 2025-02-11
+- weiters: onClick
+- drittens kann man dieses direct ins HTML schreiben
+- Übung: keinen Stein vom Anton am anderen lassen, also alle 3 Varianten verwenden bzw. umbauen.
+-
+
 ## 2025-01-21
 
 HÜ: Zahlen von 1 bis 10 als list-items in das html einfügen
