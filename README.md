@@ -4,7 +4,8 @@
 
 ## 2025-02-25
 
-**HÜ** nochmal 2 x selbstgewählte leetcode SQL Aufgaben lösen!!
+**HÜ INFI** nochmal 2 x selbstgewählte leetcode SQL Aufgaben lösen!!
+**HÜ SWP** auf den Webserver bitte eigene html / css / javascript dateien hochladen!
 
 ## 2025-02-18
 
