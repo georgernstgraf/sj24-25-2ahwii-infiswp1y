@@ -2,6 +2,10 @@
 
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
 
+## 2025-02-25
+
+**HÜ** nochmal 2 x selbstgewählte leetcode SQL Aufgaben lösen!!
+
 ## 2025-02-18
 
 **HÜ** 2 x selbstgewählte leetcode SQL Aufgaben lösen!!
