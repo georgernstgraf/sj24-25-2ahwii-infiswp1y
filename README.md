@@ -1,11 +1,15 @@
 # sj24-25-2ahwii-infiswp1y
 
+## Stoff PLÜ 1
+
+- sql Fragen analog zu leetcode
+- sql von w3schools bis incl. `aliases` (`as`) aber ohne `in` und `between`.
+- javascript im Browser
+- function definition (schreibe eine Funktion (a,b), die liefert xy)
+- keine Libraries (aber evtl. bootstrap)
+- Herumbasteln an etwas Halb-Fertigem
+
 ## Abgabe Hausübungen bis spätestens 24h vor nächstem Unterrichtsbeginn
-
-## 2025-02-25
-
-**HÜ INFI** nochmal 2 x selbstgewählte leetcode SQL Aufgaben lösen!!
-**HÜ SWP** auf den Webserver bitte eigene html / css / javascript dateien hochladen!
 
 ## 2025-02-18
 
@@ -32,8 +36,7 @@
 - Methode "addEventListener" im Code 2025-02-11
 - weiters: onClick
 - drittens kann man dieses direct ins HTML schreiben
-- Übung: keinen Stein vom Anton am anderen lassen, also alle 3 Varianten verwenden
-bzw. umbauen.
+- Übung: keinen Stein vom Anton am anderen lassen, also alle 3 Varianten verwenden bzw. umbauen.
 
 ## 2025-01-21
 
@@ -72,10 +75,8 @@ Und entwickle das geeignete SQL Statement hierfür.
 
 ## 2024-12-03 STOFF Besprechung
 
-- string split / join "Alle e's in einem String durch 'ee' ersetzen, oder alle
-"a's" entfernen
-- funktionen und returnwerte: "schreibe eine Funktion, welche das Quadrat des
-übergebenenen Parameters zurückgibt"
+- string split / join "Alle e's in einem String durch 'ee' ersetzen, oder alle "a's" entfernen
+- funktionen und returnwerte: "schreibe eine Funktion, welche das Quadrat des übergebenenen Parameters zurückgibt"
 - schleife mit for .. of zb. einen Text wort für wort auf jeder zeile einzeln ausgeben.
 - if / else blöcke
 - const vs. let
@@ -100,10 +101,8 @@ Im Terminal bzw. sqlite3 Plugin
 HÜ:
 
 - meinen Code zum Laufen kriegen, sodass er aufs Terminal die Daten schreibt.
-- falls komischer Garbage entsteht, ist am Ende des STrings vmtl. ein `\r`,
-dieses kann entfernt werden mit `str.replace(/\r/g, '')`.
-- Anhand der Doku writeTextFile analog zu readTextFile(so wie es im dztigen code
-ist) direkt in das textfile schreiben.
+- falls komischer Garbage entsteht, ist am Ende des STrings vmtl. ein `\r`, dieses kann entfernt werden mit `str.replace(/\r/g, '')`.
+- Anhand der Doku writeTextFile analog zu readTextFile(so wie es im dztigen code ist) direkt in das textfile schreiben.
 - Deno.writeTextFile() BITTE IN DIE DOKU SCHAUEN!
 
 ## 2024-11-12
@@ -145,8 +144,7 @@ HÜ:
 ### __HÜ
 
 - Upload HTML Quiz Ergebnis
-- html seite mit table erstellen und folgenden tags: table, caption, thead,
-tbody, tfoot, tr, th, td, rowspan, colspan
+- html seite mit table erstellen und folgenden tags: table, caption, thead, tbody, tfoot, tr, th, td, rowspan, colspan
 - Erfinde eine Liste Deiner Wahl (Fußballspieler, Autos, Speisen, etc.)
 - style die table mit bootstrap Klassen
 - Auf dieser Website zusätzlich noch eine Uhr implementieren

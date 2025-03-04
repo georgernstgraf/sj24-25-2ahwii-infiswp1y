@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+  min-width: 700px;
+}
+
+ul {
+  background-color: beige;
+  border-radius: 1ch;
+}
+
+button {
+  background-color: pink;
+  border-radius: 0.5ch;
+  border: none;
+  padding: 1ch;
+  font-weight: bold;
+}
