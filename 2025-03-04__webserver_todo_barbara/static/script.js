@@ -3,6 +3,13 @@ const addTaskButton = document.getElementById("addTask");
 const clearAllButton = document.getElementById("clearAll");
 const taskList = document.getElementById("taskList");
 
+taskInput.addEventListener("keyup", function (e) {
+    console.log(e.key);
+    if (e.key === "Enter") {
+        addTaskButton.click();
+    }
+});
+
 addTaskButton.addEventListener("click", function () {
     const taskText = taskInput.value;
     if (taskText) {
