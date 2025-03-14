@@ -1,3 +1,0 @@
-# netter stoff
-
-- bootstrap componenten!

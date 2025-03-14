@@ -9,7 +9,6 @@
 - Reim Oliver: <https://github.com/olirei02/infiswp.git>
 - Rogner Sonja: <https://github.com/SonjaRogner/infiswp.git>
 - Ruan Nico: <https://github.com/tatami-nic/infiswp.git>
-- San Buenaventura Kit: <https://github.com/K1tooK1t/INFI-SWP.git>
 - Schmidt Anton: <https://github.com/AntonScripts/infiswp.git>
 - Vasic Luka: <https://github.com/lukaaavv/infiswp.git>
 - Zalud Barbara: <https://github.com/Barbara-Z/infiswp.git>
