@@ -1,5 +1,9 @@
 # sj24-25-2ahwii-infiswp1y
 
+## 2025-03-18
+
+Array: pop / push / shift / unshift
+
 ## Stoff PLÜ 1
 
 - sql Fragen analog zu leetcode
