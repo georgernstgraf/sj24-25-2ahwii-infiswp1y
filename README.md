@@ -2,6 +2,7 @@
 
 ## 2025-03-18
 
+HÜ: fertigstellen Ticketautomat
 Array: pop / push / shift / unshift
 
 ## Stoff PLÜ 1
