@@ -2,6 +2,7 @@
 
 ## 2025-03-18
 
+INFIHÜ: 3 leetcodes mit "basic joins" aus sql50
 HÜ: fertigstellen Ticketautomat
 Array: pop / push / shift / unshift
 
