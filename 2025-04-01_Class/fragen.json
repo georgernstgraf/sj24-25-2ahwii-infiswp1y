@@ -99,5 +99,4 @@
         "optionen": ["1983", "1991", "1995", "2000"],
         "antwort": "1991"
     }
-];
-module.exports = fragen
+]
