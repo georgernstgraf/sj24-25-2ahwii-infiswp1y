@@ -2,10 +2,12 @@
 
 ## 2025-04-01
 
-HÜ SWP: fragen.json
+HÜ SWP:
 
+- fragen.json einlesen in Programm "main.js".
+- fragen.json in ein Array einlesen
 - Class Frage erstellen
-- fragen.json in ein Array einlesen und ein Array mit `Frage` Objekten anlegen
+- ein Array mit `Frage` Objekten anlegen
 
 ## 2025-03-18
 
