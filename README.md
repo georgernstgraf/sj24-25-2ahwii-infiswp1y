@@ -1,5 +1,12 @@
 # sj24-25-2ahwii-infiswp1y
 
+## 2025-04-01
+
+HÜ SWP: fragen.json
+
+- Class Frage erstellen
+- fragen.json in ein Array einlesen und ein Array mit `Frage` Objekten anlegen
+
 ## 2025-03-18
 
 INFIHÜ: 3 leetcodes mit "basic joins" aus sql50
