@@ -8,6 +8,7 @@ HÜ SWP:
 - fragen.json in ein Array einlesen
 - Class Frage erstellen
 - ein Array mit `Frage` Objekten anlegen
+- html für quiz applikation
 
 ## 2025-03-18
 
