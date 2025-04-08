@@ -1,5 +1,17 @@
 # sj24-25-2ahwii-infiswp1y
 
+## 2025-04-08 PLF STOFF
+
+### swp
+
+- js Klassen / Objekte (plf_swp_vorb)
+- js Array Funktionen insbesondere forEach(), map(), filter(), join()
+
+### infi == sql
+
+- inbesonders joins, aber auch alles andere davor (w3scools HP)
+- probiert aus mit fragen.sqlite aus dem Vorbereitungs Ordner
+
 ## 2025-04-01
 
 HÜ SWP:
