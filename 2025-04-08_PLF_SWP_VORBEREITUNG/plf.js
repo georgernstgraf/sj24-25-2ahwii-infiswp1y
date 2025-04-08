@@ -1,2 +1,3 @@
-const Person = null;
+class Person {}
+
 export { Person };
