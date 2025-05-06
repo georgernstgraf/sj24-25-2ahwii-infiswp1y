@@ -1,5 +1,14 @@
 # sj24-25-2ahwii-infiswp1y
 
+## 2025-05-06_HÜ_quiz
+
+quiz repo: <https://github.com/Die-Spengergasse/quiz-2ahwii-sj2425/>
+
+- Issue erstellen (gewünschtes Feature o.Ä.)
+- letzte HÜ auf einem feature-branch in dieses repo tun.
+- nochmal "merge main"
+- create pull request of der weboberfläche
+
 ## 2025-04-29_HÜ
 
 in *4-99_QUIZ weitermachen
