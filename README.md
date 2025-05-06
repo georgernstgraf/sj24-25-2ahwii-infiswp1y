@@ -2,6 +2,12 @@
 
 ## 2025-05-06_HÜ_quiz
 
+### INFI
+
+2 SQL leetcodes, zumindest eines davon: medium
+
+### SWP
+
 quiz repo: <https://github.com/Die-Spengergasse/quiz-2ahwii-sj2425/>
 
 - Issue erstellen (gewünschtes Feature o.Ä.)
