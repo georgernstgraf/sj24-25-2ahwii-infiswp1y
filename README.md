@@ -2,11 +2,11 @@
 
 ## 2025-05-06_HÜ_quiz
 
-### INFI
+### INFI HÜ
 
 2 SQL leetcodes, zumindest eines davon: medium
 
-### SWP
+### SWP HÜ
 
 quiz repo: <https://github.com/Die-Spengergasse/quiz-2ahwii-sj2425/>
 
