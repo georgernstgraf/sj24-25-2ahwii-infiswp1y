@@ -1,5 +1,9 @@
 # sj24-25-2ahwii-infiswp1y
 
+## 2025-06-20
+
+- SQL Abgaben Barbara
+
 ## 2025-05-06_HÜ_quiz
 
 ### INFI HÜ
