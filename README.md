@@ -3,6 +3,9 @@
 ## 2025-06-20
 
 - SQL Abgaben Barbara
+- w3schools fertigmachen
+- prisma?!
+- Projektarbeit
 
 ## 2025-05-06_HÜ_quiz
 
