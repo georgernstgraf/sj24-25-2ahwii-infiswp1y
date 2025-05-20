@@ -1,10 +1,15 @@
 # sj24-25-2ahwii-infiswp1y
 
-## 2025-06-20
+## 2025-05-27
+
+prisma?!
+
+## 2025-05-20
+
+### HÜ: pull request / create issue
 
 - SQL Abgaben Barbara
 - w3schools fertigmachen
-- prisma?!
 - Projektarbeit
 
 ## 2025-05-06_HÜ_quiz
