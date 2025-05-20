@@ -2,7 +2,9 @@
 
 ## 2025-05-27
 
-prisma?!
+- Datenmodell Quiz
+- prisma
+- authenticated User
 
 ## 2025-05-20
 
