@@ -1,0 +1,30 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+    provider = "prisma-client-js"
+    output   = "../generated/prisma"
+}
+
+datasource db {
+    provider = "sqlite"
+    url      = env("DATABASE_URL")
+}
+
+model frage {
+    frageid   Int       @id @default(autoincrement())
+    frage     String
+    optionen  antwort[] @relation(name: "optionen")
+    richtig   antwort   @relation(name: "richtig", fields: [richtigId], references: [antwortid])
+    richtigId Int
+}
+
+model antwort {
+    antwortid Int     @id @default(autoincrement())
+    antwort   String
+    richtige  frage[] @relation(name: "richtig")
+    frage     frage[] @relation(name: "optionen")
+}
